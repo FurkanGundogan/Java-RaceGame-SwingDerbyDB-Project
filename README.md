@@ -3,7 +3,7 @@ Object Orianted Swing&DB Project
 
 2nd Semester ComputerProgramming-2 Course Project 
 
-Copy Company to :
+Copy Company to:
 
 AppData\Roaming\NetBeans\Derby
 
