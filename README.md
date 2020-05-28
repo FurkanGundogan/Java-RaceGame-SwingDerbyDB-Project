@@ -1,7 +1,7 @@
 # Java-RaceGame-SwingDerbyDB-Project
 Object Orianted Swing&DB Project 
 
-Semester 2 Project ComputerProgramming1 Course
+2nd Semester ComputerProgramming-2 Course Project 
 
 Copy Company to :
 
